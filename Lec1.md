@@ -1,3 +1,9 @@
+- NP Proofs => Efficiently verifiable proofs
+- P Proofs => Efficiently solvable proofs
+
+   **b=1** checks if the randomness is generated according to protocol.  
+   **b=0** check if the prover knows x assuming the randomness generated according to the protocol.  
+   So half of the time we check if the randomness is generated fairly (it is crucial for the second part) half of the time we check x. Both of the steps are important.  
 
 ![image](https://user-images.githubusercontent.com/37501487/223778812-c1e6e57c-69a2-424e-850a-17759e7f4bcb.png)
 
