@@ -24,3 +24,13 @@ Incase of randomness, there may be a small probability of an error in the accept
 
 ![image](https://user-images.githubusercontent.com/37501487/223886700-c6fac85b-0fde-482d-829a-7e21e9bcd5af.png)
 
+Some Takeaways:
+- Legacy, common proofs:
+  - **Completeness**: Theorem is true: Verifier is definitely convinced: P[Verifier is convinced] = 1
+  - **Soundness**: Theorem is false: Verifier cannot be convinced: P[Verifier is convinced] = 0
+
+- Interactive Proof:
+  - **Completeness**: Statement is true: P[Verifier is convinced] > 1/2
+  - **Soundness**: Statement is false: P[Verifier is convinced] < 1/2
+
+![image](https://user-images.githubusercontent.com/37501487/224381582-b219ef75-c377-45cd-8a04-6f654aad6168.png)
