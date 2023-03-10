@@ -18,6 +18,9 @@ To prove without actually revealing any information, **Interaction** & **Randomn
 Incase of interaction, the verifier may have a non-trivial interaction with the prover.
 Incase of randomness, there may be a small probability of an error in the acceptance/rejectance.
 
+![IMG_3381](https://user-images.githubusercontent.com/37501487/224408474-baa84ddc-f02d-4f25-a715-bffd09de6e73.jpeg)
+
+
 ![image](https://user-images.githubusercontent.com/37501487/223883352-267de075-b044-41b5-a29d-bde68f29d183.png)
 
 ![image](https://user-images.githubusercontent.com/37501487/223883888-d67d4be0-f96b-4fca-a6fc-5b01453fa068.png)
